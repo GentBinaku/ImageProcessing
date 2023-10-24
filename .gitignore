@@ -1,0 +1,13 @@
+
+
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+
+out
+gein
+external
+external/opencv
+cmake-build-debug
+cmake-build-release
